@@ -13,7 +13,7 @@ Node version 10.15.0 or greater is required.
 See [nodejs.org](https://nodejs.org/en/) for information on Node.js.
 
 #### MBEE Core Framework (MCF)
-An installation of MCF is required. It is hosted here: https://github.com/lmco/mbee. 
+An installation of MCF is required. It is hosted here: https://github.com/Open-MBEE/mcf. 
 Please refer to the `README.md` for installation instructions.
 
 #### PrincePDF
